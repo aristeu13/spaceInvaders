@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1561915351 source:c:\users\souar\desktop\projetos ufu\spaceinvaders\main.c
+	<windows.h>
+	<gl/gl.h>
+	"SOIL.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1215461608 c:\users\souar\desktop\projetos ufu\spaceinvaders\soil.h
+
